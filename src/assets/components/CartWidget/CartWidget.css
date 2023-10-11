@@ -5,9 +5,9 @@
   
 span {
     position: absolute;
-    top: 0;
-    right: 0;
-    background-color: red; /* Color de fondo del número */
+    top: -5px;
+    right: -5px;
+    background-color: blue; /* Color de fondo del número */
     color: white; /* Color del texto del número */
     padding: 2px 5px; /* Espaciado alrededor del número */
     border-radius: 50%; 

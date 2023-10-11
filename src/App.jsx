@@ -9,12 +9,12 @@ function App() {
 
   return (
     <>
-      <Navbar>
+      <Navbar/>
 
-      </Navbar>
-      <ItemListContainer greeting= "Hola coder">
+      
+      <ItemListContainer greeting= "Hola coder"/>
 
-      </ItemListContainer>
+      
     </>
   )
 }

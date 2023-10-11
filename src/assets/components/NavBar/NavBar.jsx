@@ -14,9 +14,9 @@ const Navbar = () => {
                 <li>Productos</li>
             </ul>
         </nav>
-        <CartWidget>
+        <CartWidget/>
             
-        </CartWidget>
+       
 
     </header>
   )
