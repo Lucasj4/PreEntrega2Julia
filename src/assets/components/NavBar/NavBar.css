@@ -8,11 +8,10 @@ header{
 h1{
     color: #fff;
 }
-
-li{
+nav .link{
     display: inline-block;
     color: #fff;
     margin: 10px;
     cursor: pointer;
+    text-decoration: none;
 }
-

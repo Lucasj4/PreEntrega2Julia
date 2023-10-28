@@ -1,0 +1,20 @@
+.container {
+    position: relative;
+    /* Para que el contenedor se ajuste al contenido */
+  }
+  
+span {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background-color: blue; /* Color de fondo del número */
+    color: white; /* Color del texto del número */
+    padding: 2px 5px; /* Espaciado alrededor del número */
+    border-radius: 50%; 
+    font-size: 1rem;/* Para hacer el fondo circular */
+}
+  
+img{
+    
+    width: 45px;
+}
